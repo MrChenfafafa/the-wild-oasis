@@ -97,7 +97,7 @@ By building "The Wild Oasis" project with these technologies and concepts, I've 
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/The-Wild-Oasis.git
+git clone https://github.com/MrChenfafafa/the-wild-oasis.git'
 ```
 
 - Install dependencies:
@@ -120,7 +120,7 @@ npm run dev
 
 <b>ChenFafafa🦄</b>
 
-- Github: [@MrChenfafafa](https://github.com/MrChenfafafa))
+- Github: [@MrChenfafafa](https://github.com/MrChenfafafa)
 
 Feel free to contact me with any questions or feedback!
 
