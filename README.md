@@ -164,6 +164,8 @@ npm run build
 npm run dev
 ```
 
+## Author
+
 <b>ChenFafafa🦄</b>
 
 - Github: [@MrChenfafafa](https://github.com/MrChenfafafa)
