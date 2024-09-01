@@ -135,7 +135,7 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 
 By building "The Wild Oasis" project with these technologies and concepts, I've developed a comprehensive set of skills and knowledge that can be applied to future projects and real-world scenarios. This experience has not only expanded my technical expertise but also improved my problem-solving capabilities.
 
-<a align="center" href="https://eqknqq3mz2n.feishu.cn/wiki/RaAQw2GG3ibTOQkhLgZcbZg0nHg?from=from_copylink">Study notes
+My Feishu Cloud Document✏️ About the-wild-oasis <a align="center" href="https://eqknqq3mz2n.feishu.cn/wiki/RaAQw2GG3ibTOQkhLgZcbZg0nHg?from=from_copylink">Study notes
 </a>
 
 ### Installation
@@ -167,7 +167,8 @@ npm run dev
 <b>ChenFafafa🦄</b>
 
 - Github: [@MrChenfafafa](https://github.com/MrChenfafafa)
-
+- Feishu Docs: [@MrChenfafafa](https://eqknqq3mz2n.feishu.cn/wiki/space/7379983797742878721?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)
+  
 Feel free to contact me with any questions or feedback!
 
 ### Acknowledgments
