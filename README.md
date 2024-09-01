@@ -35,6 +35,7 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 ![Screenshot](https://eggiakvqpahkkkvydfmc.supabase.co/storage/v1/object/public/cabin-images/intro.png)
 
 </a>
+
 ## Table of contents
 
 - [Key Features](#key-features)
