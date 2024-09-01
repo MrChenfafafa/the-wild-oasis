@@ -44,7 +44,8 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 - [Installation](#installation)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-- 
+
+
 ## Key Features
 
 - Users of the app are hotel employees. They need to be logged into the application to perform tasks
