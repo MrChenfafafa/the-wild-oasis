@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./public/logo-dark.png" alt="logo" width="90" height="auto">
+  <img src="./public/logo-dark.png" alt="logo" width="120" height="auto">
 
   <h2>The Wild Oasis</h2>
 
@@ -13,9 +13,9 @@
   <div align="center">
     <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/issues">Report Bug</a>
+    <a href="https://github.com/MrChenfafafa/the-wild-oasis/issues">Report Bug</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/pulls">Request Feature</a>
+    <a href="https://github.com/MrChenfafafa/the-wild-oasis/issues">Request Feature</a>
   </div>
 
   <hr>
