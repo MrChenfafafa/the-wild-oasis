@@ -5,13 +5,13 @@
   <h2>The Wild Oasis</h2>
 
   <h3>
-    <a href="https://the-wild-oasis-alamin.vercel.app">
+    <a href="https://the-wild-oasis-nu-kohl.vercel.app">
       <strong>Demo Website</strong>
     </a>
   </h3>
 
   <div align="center">
-    <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
+    <a href="https://the-wild-oasis-nu-kohl.vercel.app">View Demo</a>
     •
     <a href="https://github.com/MrChenfafafa/the-wild-oasis/issues">Report Bug</a>
     •
@@ -30,7 +30,7 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://the-wild-oasis-alamin.vercel.app">
+<a align="center" href="https://the-wild-oasis-nu-kohl.vercel.app">
 
 ![Screenshot](https://eggiakvqpahkkkvydfmc.supabase.co/storage/v1/object/public/cabin-images/intro.png)
 
